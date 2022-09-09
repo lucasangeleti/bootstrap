@@ -1,0 +1,35 @@
+body {
+
+    background-color: #ecc8af;
+    
+
+}
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.card {
+    width: 32%;
+   float: left;
+    margin: 5px;
+    background-color: #ecc8af;
+    border-radius: 3%;
+   
+}
+
+.modal {
+    float: left;
+    margin: 2px;
+}
+
+.container {
+    margin-top: 15px;
+
+}
+
